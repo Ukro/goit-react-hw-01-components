@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import { TransactionHistoryTable } from './Transactionhistory.styled';
 
 const TransactionHistory = ({ items }) => {
